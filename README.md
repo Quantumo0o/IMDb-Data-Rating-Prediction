@@ -10,7 +10,7 @@ This project predicts movie ratings using the "IMDb Movies India.csv" dataset. T
 
 1.  **Clone the repository:**
     ```bash
-    git clone [https://github.com/Quantumo0o/IMDb-Data-Rating-Prediction.git](https://www.google.com/search?q=https://github.com/Quantumo0o/IMDb-Data-Rating-Prediction.git)
+    git clone https://www.google.com/search?q=https://github.com/Quantumo0o/IMDb-Data-Rating-Prediction.git
     cd IMDb-Data-Rating-Prediction
     ```
 
